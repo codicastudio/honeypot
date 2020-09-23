@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/honeypot",
+    "name": "codica-studio/honeypot",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/honeypot",
+    "homepage": "https://github.com/codica-studio/honeypot",
     "license": "MIT",
     "authors": [
         {
