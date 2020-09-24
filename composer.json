@@ -1,5 +1,5 @@
 {
-    "name": "codica-studio/honeypot",
+    "name": "codicastudio/honeypot",
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codicastudio/honeypot",
@@ -50,6 +50,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
